@@ -1,0 +1,8 @@
+# nodes addresses
+nodes.json
+
+# heroku configuration
+Procfile
+
+# requirements
+requirements.txt
